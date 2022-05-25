@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--5개까지만 하는게 좋다-->
+    <item
+        android:id="@+id/menu_dialog"
+        android:icon="@drawable/icon_dialog"
+        android:title="대화상자" />
+    <item
+        android:id="@+id/menu_custom_dialog"
+        android:icon="@drawable/icon_custom_dialog"
+        android:title="커스텀대화상자" />
+    <item
+        android:id="@+id/menu_more"
+        android:icon="@drawable/icon_more"
+        android:title="더보기" />
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@drawable/icon_plus"
+        android:title="추가" />
+</menu>
